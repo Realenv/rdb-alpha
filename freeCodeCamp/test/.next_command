@@ -211,3 +211,5 @@ rm -help
 rm --help
 rm -r fonts
 ls --color=auto
+rm FreeCodeCamp.svg
+touch package.json
