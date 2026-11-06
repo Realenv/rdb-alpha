@@ -156,3 +156,4 @@ cd assets/
 cd images
 mkdir images
 cd images
+touch background.jpg
