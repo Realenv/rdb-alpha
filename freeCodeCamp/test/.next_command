@@ -236,3 +236,4 @@ ls --color=auto
 copy -help
 cp -help
 cp --help
+cp website-boilerplate/ toms-website -r
