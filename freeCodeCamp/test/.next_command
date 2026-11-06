@@ -229,3 +229,5 @@ more README.md
 cd project
 pwd
 cd ..
+ld
+ls --color=auto
